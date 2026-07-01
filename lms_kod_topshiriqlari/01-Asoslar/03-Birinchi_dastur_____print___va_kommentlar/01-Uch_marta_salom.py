@@ -1,0 +1,1 @@
+print("salom salom salom")
