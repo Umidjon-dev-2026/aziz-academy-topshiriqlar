@@ -1,0 +1,1 @@
+print("Har kuni bir qadam!")
