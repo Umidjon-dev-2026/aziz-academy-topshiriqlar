@@ -1,0 +1,1 @@
+print("Butun qism: 3")
