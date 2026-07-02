@@ -1,0 +1,1 @@
+print("Ikkalsi ham (and): False")
