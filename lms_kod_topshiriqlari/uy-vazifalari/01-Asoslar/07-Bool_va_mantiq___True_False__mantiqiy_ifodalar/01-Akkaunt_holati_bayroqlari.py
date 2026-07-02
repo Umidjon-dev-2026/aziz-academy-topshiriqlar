@@ -1,0 +1,1 @@
+print("Ro'yxatdan o'tgan: True")
