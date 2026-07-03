@@ -1,3 +1,3 @@
-print("ISm:Aziz")
-print("Kurs:Python")
-print("Modul:Asoslar")
+print("Ism: Aziz")
+print("Kurs: Python")
+print("Modul: Asoslar")
