@@ -1,0 +1,5 @@
+a = input()
+s = a.strip()
+x = len(s)
+print(s)
+print(x)
