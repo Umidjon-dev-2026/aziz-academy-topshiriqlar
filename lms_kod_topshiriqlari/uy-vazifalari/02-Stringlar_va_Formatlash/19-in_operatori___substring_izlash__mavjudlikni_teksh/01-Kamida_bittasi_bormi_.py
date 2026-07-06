@@ -1,0 +1,5 @@
+a = input()
+b = input()
+c = input()
+s = (b in a) or (c in a)
+print(s)
