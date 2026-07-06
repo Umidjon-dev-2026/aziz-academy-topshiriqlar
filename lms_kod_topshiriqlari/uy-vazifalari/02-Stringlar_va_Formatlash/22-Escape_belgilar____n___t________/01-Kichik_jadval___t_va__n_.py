@@ -1,0 +1,7 @@
+a = input()
+b = input()
+c = input()
+d = input()
+print("Ism\tYosh")
+print(a + "\t" + b)
+print(c + "\t" + d)
