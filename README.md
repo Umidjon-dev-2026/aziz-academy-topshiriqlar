@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — KOMILJONOV UMIDJON
+# 🎓 Aziz Academy — Komiljonov Umidjon
 
 **Kurs:** Dasturlash / IT
 
@@ -6,14 +6,14 @@
 
 `████░░░░░░░░░░░░░░░░` **20%**  (36/179 mavzu)
 
-- ⭐ Jami ball: **28160**
-- 📤 GitHubga yuborilgan topshiriqlar: **696**
+- ⭐ Jami ball: **38124**
+- 📤 GitHubga yuborilgan topshiriqlar: **697**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 3 — Shartlar va Sikllar** → **Hisoblash ⭐ — max, min, yig'indi, o'rtacha**
+**MODUL 3 — Shartlar va Sikllar** → **Nested loop — ko'paytirish jadvali**
 
-➡️ Keyingi mavzu: *for va range() ⭐ — ketma-ket takrorlash*
+➡️ Keyingi mavzu: *Oddiy algoritmlar — bo'luvchilar, tub son tekshirish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -23,12 +23,12 @@
 - ✅ 🛠 Shartli menyu — oddiy CLI menyu
 - ✅ while sikli ⭐ — shartga asoslangan takrorlash
 - ✅ break va continue — sikldan chiqish va o'tkazib yuborish
-- ⬜ for va range() ⭐ — ketma-ket takrorlash
+- ✅ for va range() ⭐ — ketma-ket takrorlash
 - ✅ for bilan kolleksiyalar — string/list bo'ylab yurish
 - ✅ Pattern chizish — yulduzchalar, uchburchaklar (nested loop)
 - ✅ Filtrlash — juft sonlar, musbat sonlar ajratish
-- ✅ Hisoblash ⭐ — max, min, yig'indi, o'rtacha  ← yetgan joyingiz
-- ⬜ Nested loop — ko'paytirish jadvali
+- ✅ Hisoblash ⭐ — max, min, yig'indi, o'rtacha
+- ✅ Nested loop — ko'paytirish jadvali  ← yetgan joyingiz
 - ⬜ Oddiy algoritmlar — bo'luvchilar, tub son tekshirish
 - ⬜ 🛠 Loyiha: Taxmin o'yini (Guess game) — random + while
 - ⬜ 🛠 Loyiha: Kengaytirilgan kalkulyator — menyu + sikl
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-08 12:44</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-20 12:34</sub>
