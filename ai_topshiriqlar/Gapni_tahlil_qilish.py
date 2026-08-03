@@ -1,10 +1,14 @@
 # Gapni tahlil qilish
 # Kurs: Dasturlash / IT
-# Mavzu: f-string ⭐ — zamonaviy formatlash (f"{ism}")
-# Ball: 30
+# Mavzu: String metodlari — 1: lower, upper, strip, title
+# Ball: 50
 # Aziz Academy — AI Topshiriq
 
 # Yechimingizni shu yerga yozing
 # Kirish: input(), chiqish: print()
 a = input()
-print(len(a.split()))
+b = len(a.split())
+x = a.split()
+d = min(x, key=len)
+print(b)
+print(d)
