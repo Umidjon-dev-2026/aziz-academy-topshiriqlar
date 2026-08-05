@@ -1,6 +1,6 @@
 # Index va slicing
 # Kurs: Dasturlash / IT
-# Mavzu: String metodlari — 1: lower, upper, strip, title
+# Mavzu: f-string ⭐ — zamonaviy formatlash (f"{ism}")
 # Ball: 50
 # Aziz Academy — AI Topshiriq
 
