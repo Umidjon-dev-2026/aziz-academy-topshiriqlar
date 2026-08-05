@@ -1,7 +1,7 @@
 # Teskari yozish
 # Kurs: Dasturlash / IT
-# Mavzu: String metodlari — 1: lower, upper, strip, title
-# Ball: 30
+# Mavzu: f-string ⭐ — zamonaviy formatlash (f"{ism}")
+# Ball: 50
 # Aziz Academy — AI Topshiriq
 
 # Yechimingizni shu yerga yozing
@@ -9,3 +9,7 @@
 a = input()
 b = a[::-1]
 print(b)
+if a == b:
+    print("ha")
+else:
+    print("yo'q")
