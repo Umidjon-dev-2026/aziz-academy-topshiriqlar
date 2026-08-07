@@ -1,0 +1,11 @@
+# a va b beriladi.
+# Ikkala sonning umumiy bo‘luvchilarini chiqar.
+parts = input().split()
+a = int(parts[0])
+b = int(parts[1])
+m = a
+if b < m:
+    m = b 
+for i in range(1, m + 1):
+    if a % i == 0 and b % i == 0:
+        print(i)
