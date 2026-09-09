@@ -1,15 +1,15 @@
 # Teskari yozish
 # Kurs: Dasturlash / IT
-# Mavzu: f-string ⭐ — zamonaviy formatlash (f"{ism}")
+# Mavzu: String metodlari — 1: lower, upper, strip, title
 # Ball: 50
 # Aziz Academy — AI Topshiriq
 
 # Yechimingizni shu yerga yozing
 # Kirish: input(), chiqish: print()
 a = input()
-b = a[::-1]
-print(b)
-if a == b:
+x = a[::-1]
+print(x)
+if x == a:
     print("ha")
 else:
     print("yo'q")
