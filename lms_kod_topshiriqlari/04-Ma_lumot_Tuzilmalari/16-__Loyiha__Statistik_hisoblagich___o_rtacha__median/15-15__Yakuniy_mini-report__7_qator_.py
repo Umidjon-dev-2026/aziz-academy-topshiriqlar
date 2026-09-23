@@ -1,0 +1,15 @@
+nums = list(map(int, input().split()))
+count = len(nums)
+total = sum(nums)
+mn = min(nums)
+mx = max(nums)
+evens = sum(1 for x in nums if x % 2 == 0)
+odds = count - evens
+mean = total / count
+print(f"count: {count}")
+print(f"sum: {total}")
+print(f"min: {mn}")
+print(f"max: {mx}")
+print(f"mean: {mean:.2f}")
+print(f"evens: {evens}")
+print(f"odds: {odds}")
