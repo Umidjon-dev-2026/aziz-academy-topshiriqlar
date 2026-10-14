@@ -6,30 +6,30 @@
 
 `███████░░░░░░░░░░░░░` **36%**  (64/179 mavzu)
 
-- ⭐ Jami ball: **100663**
-- 📤 GitHubga yuborilgan topshiriqlar: **1193**
+- ⭐ Jami ball: **100878**
+- 📤 GitHubga yuborilgan topshiriqlar: **1194**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 6 — Funksiyalar** → **Funksiyaga kirish ⭐ — def, parametr, return**
+**MODUL 6 — Funksiyalar** → **Funksiyaga kirish ⭐ - def, parametr, return**
 
-➡️ Keyingi mavzu: *Parametr va argumentlar — positional vs named*
+➡️ Keyingi mavzu: *Parametr va argumentlar - positional vs named*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Funksiyaga kirish ⭐ — def, parametr, return  ← yetgan joyingiz
-- ⬜ Parametr va argumentlar — positional vs named
-- ⬜ Default parametrlar — def f(x=10)
-- ⬜ *args va **kwargs ⭐ — cheksiz argumentlar
-- ⬜ Scope ⭐ — local vs global, global kalit so'zi
-- ⬜ Toza funksiya yozish — bitta vazifa, qisqa, tushunarli nom
-- ⬜ Lambda funksiyalar — anonim funksiyalar, qachon ishlatish
-- ⬜ map, filter, sorted(key=...) — funksional yondashuv
-- ⬜ Rekursiya — kirish ⭐ — faktorial, Fibonacci
-- ⬜ Rekursiya — chuqurroq — base case, stack
-- ⬜ 🛠 Loyiha: Funksiyalar kutubxonasi — utility funksiyalar
-- ⬜ Mustahkamlash 🔁 — funksiyalar bo'yicha murakkab masalalar
+- ✅ Funksiyaga kirish ⭐ - def, parametr, return  ← yetgan joyingiz
+- ⬜ Parametr va argumentlar - positional vs named
+- ⬜ Default parametrlar - def f(x=10)
+- ⬜ *args va **kwargs ⭐ - cheksiz argumentlar
+- ⬜ Scope ⭐ - local vs global, global kalit so'zi
+- ⬜ Toza funksiya yozish - bitta vazifa, qisqa, tushunarli nom
+- ⬜ Lambda funksiyalar - anonim funksiyalar, qachon ishlatish
+- ⬜ map, filter, sorted(key=...) - funksional yondashuv
+- ⬜ Rekursiya - kirish ⭐ - faktorial, Fibonacci
+- ⬜ Rekursiya - chuqurroq - base case, stack
+- ⬜ 🛠 Loyiha: Funksiyalar kutubxonasi - utility funksiyalar
+- ⬜ Mustahkamlash 🔁 - funksiyalar bo'yicha murakkab masalalar
 
 </details>
 
@@ -60,4 +60,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-12 16:29</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-14 11:28</sub>
