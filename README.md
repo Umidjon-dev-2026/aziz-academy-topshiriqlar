@@ -6,8 +6,8 @@
 
 `████████░░░░░░░░░░░░` **40%**  (71/179 mavzu)
 
-- ⭐ Jami ball: **111121**
-- 📤 GitHubga yuborilgan topshiriqlar: **1332**
+- ⭐ Jami ball: **111226**
+- 📤 GitHubga yuborilgan topshiriqlar: **1333**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -60,4 +60,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-28 11:40</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-28 11:41</sub>
